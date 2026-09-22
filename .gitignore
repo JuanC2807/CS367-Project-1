@@ -1,0 +1,18 @@
+# Build directories
+/cmake-build-debug/
+/obj/
+
+# Compiled object/library files
+*.o
+*.a
+*.so
+
+# Compiled executables
+/slow_bug
+/slow_countdown
+/slow_countup
+/slow_door
+/strawhat
+
+# Miscellaneous
+.DS_Store
